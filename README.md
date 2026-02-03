@@ -14,6 +14,6 @@ const skyler  = {
 ```
 ## **Selected Projects**
 
-* RabbitReview: Daytona Hackathon Winner [link](https://github.com/skylerkimcodes/rabbitreview)
+* RabbitReview: Daytona Hackathon Winner [[link](https://github.com/skylerkimcodes/rabbitreview)]
   * RabbitReview automates security testing by using CodeRabbit to generate vulnerability tests and Daytona sandboxes to safely execute them, delivering actionable results directly to pull requests.
    * Coderabbit, CSS, Daytona, Javascript, Python, Typescript
